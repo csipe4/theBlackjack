@@ -1,16 +1,18 @@
 # Build results
+x64/
 [Bb]in/
 [Oo]bj/
 
-# Visual Studio files
+# Visual Studio
+.vs/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# VS Code files
-.vscode/
-
-# Mac / Linux files
-*.DS_Store
-*.swp
+# Misc
+*.log
+*.pdb
+*.ilk
+*.tlog
+*.idb
